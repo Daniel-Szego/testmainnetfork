@@ -30,6 +30,10 @@ yarn-error.log*
 #ganache databases, accounts
 personal
 
+#private information, keys and secrets
+privates.js
+privates.*
+
 #processes.env
 #secrets.json
 #network.json
